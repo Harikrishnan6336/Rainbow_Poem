@@ -1,5 +1,4 @@
-# Rainbow_Poem-
-Let it be !!!
+# Rainbow_Poem
 
-It happens in forest
-Which is imaginary
+A poem about a rainbow
+
